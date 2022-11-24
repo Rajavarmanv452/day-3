@@ -1,0 +1,12 @@
+var resume {
+      "name":"Rajavarman",
+      "age" :"23",
+      "gender":"male",
+      "gmail":"rajavarman1152@gmail.com",
+      "qualification":["10th","12th","DME"],
+      "experience" : "1.5 Years",
+      "companies_of_experience":["ashok leyland","tvs"],
+      "skills" : ["Assembly engineer","production engineer","Multi-task performer","Quick learner"],
+      "hobbies" :["Reading","internet researcher","learn to physical fitness"]
+      }
+      console.log(resume);
